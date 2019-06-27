@@ -144,7 +144,7 @@ printf "\e[1;77m      \ \ | || \  / _  )| || ||  ____/ | || \ | | /___)| || \  \
 printf "\e[1;77m  _____) )| | | |( (/ / | || || |      | | | || ||___ || | | | \e[0m\n"
 printf "\e[1;77m (______/ |_| |_| \____)|_||_||_|      |_| |_||_|(___/ |_| |_| v1.9\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by:  BL4NK \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Tool Phising coded by:  BL4NK \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: tool terdancuk mancing sejuta kerinduan    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: Thanks to Daffa Arif, Jackpot 0day exploit , MR.X::\e[0m\n"
