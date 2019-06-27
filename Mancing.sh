@@ -31,7 +31,7 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Pilih menu: \e[0m\en' option
 if [[ $option == 1 || $option == 01 ]]; then
 server="instagram"
 start1
-os.system('xdg-open https://github.com/BL4NK5')
+
 elif [[ $option == 2 || $option == 02 ]]; then
 server="facebook"
 start1
